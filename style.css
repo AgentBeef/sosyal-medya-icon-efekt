@@ -6,6 +6,7 @@
 html,
 body {
   height: 100%;
+  background-image: linear-gradient(to right top, #2a3d5a, #29488a, #494cb5, #8144d7, #c512eb);
 }
 body {
   display: flex;
