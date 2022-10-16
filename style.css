@@ -2,23 +2,14 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
 }
-body{   
-  background: linear-gradient(
-    112deg,
-    rgba(2, 0, 36, 1) 0%,
-    rgba(9, 9, 121, 1) 45%,
-    rgba(0, 212, 255, 1) 100%
-  );
-  background-repeat: no-repeat;
+html,body{ 
+  height: 100%;
 }
-.kutu1{
-    
-    display: flex;
-    justify-content: center;
-    margin-top: 20%;
-    margin-bottom: 25%;
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 ul {
     position: relative;
